@@ -1,0 +1,153 @@
+customer_id,customer_name,plan_tier,industry,region,signup_date
+1,Everline LLC,Free,Retail,North America,2023-10-08
+2,Nimbus Systems,Basic,Retail,LATAM,2022-07-08
+3,Northwind Technologies,Free,Media,Europe,2023-05-08
+4,lumen llc,Basic,Retail,APAC,2023-07-20
+5,Truenorth LLC,Enterprise,Fintech,North America,2023-12-01
+6,Foxglove Co,Free,SaaS,LATAM,2023-12-01
+7,VERTEX INC,Basic,Travel,North America,2024-04-19
+8,Cascade Technologies,Pro,Gaming,North America,2024-08-12
+9,Northwind Inc,Free,SaaS,LATAM,2023-12-21
+10,Amberly Technologies,Free,Fintech,North America,2025-06-14
+11,Kestrel Co,Free,SaaS,North America,2023-01-03
+12,Northwind Solutions,Free,Manufacturing,LATAM,2023-07-19
+13,Foxglove Systems,Enterprise,Fintech,LATAM,2024-05-04
+14,Silverline Inc,Pro,SaaS,Europe,2023-05-24
+15,Anchorpoint Labs,Basic,Media,Europe,2025-06-27
+16,Kestrel Co,Pro,Logistics,Europe,2024-11-20
+17,Ironclad Systems,Pro,Gaming,North America,2025-03-29
+18,Lumen  Technologies,Free,Logistics,North America,2023-12-28
+19,Anchorpoint Group,Pro,,Europe,2025-05-31
+20,Orbital LLC,Basic,Retail,APAC,2022-04-10
+21,Solace LLC,Pro,EdTech,APAC,2025-04-01
+22,BluePeak Group,Pro,EdTech,APAC,2025-05-01
+23,palisade systems,Free,Media,North America,2023-02-13
+24,Silverline Inc,Free,Travel,Europe,2024-10-10
+25,Wildcard Solutions,Free,SaaS,North America,2025-06-17
+26,Amberly LLC,Basic,SaaS,Europe,2023-11-19
+27,Copperline Co,Pro,EdTech,Europe,2023-11-25
+28,Cascade Systems,Pro,Gaming,LATAM,2023-11-25
+29,Redshift Group,Free,Logistics,North America,2024-08-28
+30,Foxglove Technologies,Basic,EdTech,North America,2023-10-27
+31,Kestrel LLC,Basic,Media,North America,2023-08-20
+32,Vertex Technologies,Free,Retail,APAC,2023-09-21
+33,Anchorpoint Systems,Free,Retail,Europe,2023-10-31
+34,Cascade Technologies,Free,Fintech,North America,2023-07-14
+35,Greywolf LLC,Enterprise,SaaS,North America,2023-12-04
+36,SOLACE SYSTEMS,Free,Fintech,APAC,2024-03-06
+37,Cobalt Group,Basic,SaaS,North America,2023-10-30
+38,Sable Group,Pro,SaaS,APAC,2023-10-10
+39,BluePeak Technologies,Basic,Retail,APAC,2023-09-13
+40,Truenorth Systems,Enterprise,SaaS,North America,2023-03-30
+41,Kestrel LLC,Enterprise,Fintech,North America,2025-02-02
+42,Palisade Labs,Free,Fintech,MEA,2025-08-21
+43,Amberly Technologies,Basic,EdTech,North America,2024-01-21
+44,Sable Solutions,Free,Retail,North America,2025-08-12
+45,SOLACE SYSTEMS,Free,Fintech,APAC,2023-11-21
+46,Copperline Technologies,Free,SaaS,LATAM,2023-08-24
+47,Truenorth Group,Basic,Logistics,MEA,2023-07-23
+48,Redshift Inc,Basic,Healthcare,APAC,2025-03-05
+49,Northwind Inc,Free,Gaming,North America,2023-12-23
+50,Silverline Group,Free,Fintech,North America,2024-08-13
+51,SOLACE SYSTEMS,Enterprise,Fintech,APAC,2023-07-16
+52,Cascade Technologies,Free,SaaS,Europe,2023-11-28
+53,Copperline Group,Free,SaaS,Europe,2023-12-19
+54,Harborlight Solutions,Basic,Gaming,LATAM,2022-07-14
+55,Solace Solutions,Enterprise,Logistics,North America,2022-05-04
+56,Lumen Systems,Free,Manufacturing,Europe,2024-06-18
+57,lumen technologies,Pro,SaaS,North America,2024-05-10
+58,Wildcard Systems,Pro,Retail,Europe,2025-06-30
+59,Wildcard Co,Free,EdTech,North America,2023-03-09
+60,Fieldstone Co,Pro,Healthcare,North America,2023-10-27
+61,BluePeak Technologies,Basic,SaaS,North America,2023-12-13
+62,Lumen Solutions,Basic,Fintech,Europe,2023-06-07
+63,  Cascade Inc  ,Basic,Fintech,APAC,2023-09-18
+64,Greywolf LLC,Basic,Manufacturing,Europe,2023-12-08
+65,Lumen Labs,Free,EdTech,MEA,2023-08-30
+66,Silverline Co,Pro,Gaming,North America,2023-12-25
+67,Palisade LLC,Free,Retail,North America,2022-10-25
+68,Solace Co,Free,Fintech,APAC,2023-11-08
+69,Palisade Solutions,Free,Fintech,North America,2023-06-19
+70,Meridian Systems,Basic,Healthcare,MEA,2025-01-23
+71,Amberly Inc,Pro,SaaS,North America,2023-10-25
+72,Truenorth LLC,Free,Logistics,MEA,2025-03-07
+73,Truenorth Systems,Basic,Gaming,North America,2023-08-21
+74,Anchorpoint Group,Free,,LATAM,2023-08-11
+75,Orbital Systems,Basic,Manufacturing,Europe,2023-11-25
+76,Driftwood Labs,Free,Logistics,MEA,2022-04-12
+77,Cobalt Inc,Pro,SaaS,North America,2024-12-24
+78,Wildcard Systems,Basic,SaaS,Europe,2023-04-07
+79,Meridian Labs,Enterprise,,MEA,2022-08-14
+80,Meridian LLC,Free,Healthcare,Europe,2024-02-11
+81,Greywolf Systems,Free,Retail,Europe,2024-09-10
+82,Redshift Technologies,Free,Logistics,APAC,2022-11-21
+83,Lumen Group,Enterprise,Fintech,Europe,2023-07-21
+84,Anchorpoint Labs,Pro,Fintech,Europe,2022-09-29
+85,Amberly Inc,Free,Fintech,Europe,2023-12-15
+86,PALISADE GROUP,Pro,Fintech,LATAM,2023-11-22
+87,Ridgeline  Inc,Pro,Media,North America,2023-12-23
+88,Orbital Group,Basic,Logistics,North America,2023-10-22
+89,Fieldstone Systems,Basic,SaaS,LATAM,2023-10-04
+90,Northwind Inc,Free,Fintech,LATAM,2024-06-20
+91,Northwind LLC,Free,SaaS,Europe,2023-11-05
+92,Cascade Solutions,Pro,SaaS,Europe,2024-04-27
+93,Redshift LLC,Enterprise,Fintech,North America,2024-06-16
+94,Anchorpoint Labs,Basic,SaaS,North America,2024-04-20
+95,Lumen Solutions,Free,Retail,Europe,2023-02-17
+96,Amberly Labs,Free,SaaS,North America,2025-08-12
+97,QUANTA CO,Pro,Gaming,Europe,2023-10-13
+98,Harborlight Technologies,Pro,Fintech,North America,2025-02-10
+99,Kestrel Systems,Pro,Retail,MEA,2024-07-22
+100,Solace Group,Pro,Gaming,MEA,2023-11-02
+101,Cobalt Solutions,Basic,SaaS,APAC,2023-08-13
+102,Orbital Technologies,Free,Media,Europe,2023-12-04
+103,Northwind LLC,Free,Gaming,North America,2023-03-15
+104,Ironclad Inc,Pro,Fintech,APAC,2024-05-03
+105,Foxglove Technologies,Basic,Fintech,APAC,2025-08-02
+106,Foxglove Technologies,Free,Gaming,North America,2024-12-21
+107,Nimbus LLC,Free,Fintech,LATAM,2023-12-18
+108,Kestrel Inc,Pro,SaaS,APAC,2021-11-11
+109,Northwind LLC,Free,Travel,LATAM,2023-04-09
+110,Fieldstone Inc,Free,SaaS,APAC,2023-11-22
+111,Greywolf Group,Basic,Retail,Europe,2023-12-31
+112,Cascade Technologies,Pro,Gaming,Europe,2023-03-02
+113,Quanta Solutions,Pro,SaaS,LATAM,2023-05-25
+114,Harborlight Labs,Free,SaaS,APAC,2023-05-10
+115,Wildcard Solutions,Pro,Travel,North America,2023-04-10
+116,Northwind Solutions,Free,Retail,North America,2025-04-15
+117,Silverline Co,Free,Manufacturing,North America,2025-03-21
+118,Harborlight LLC,Pro,Travel,APAC,2023-12-18
+119,Orbital Co,Basic,,MEA,2023-10-13
+120,BluePeak Co,Pro,Fintech,North America,2023-12-09
+121,driftwood solutions,Pro,Fintech,Europe,2023-01-08
+122,Greywolf Inc,Basic,Fintech,North America,2025-05-10
+123,Truenorth LLC,Free,Fintech,MEA,2023-07-09
+124,Vertex Co,Basic,Gaming,APAC,2024-10-01
+125,Wildcard Group,Free,Fintech,APAC,2023-10-20
+126,Silverline LLC,Free,Retail,Europe,2023-12-20
+127,Northwind Technologies,Enterprise,Media,Europe,2024-10-12
+128,Harborlight Solutions,Basic,Fintech,North America,2024-09-06
+129,  Lumen Co  ,Pro,EdTech,North America,2025-08-06
+130,Sable Systems,Basic,Retail,APAC,2023-10-25
+131,Cobalt Technologies,Pro,Fintech,APAC,2023-10-22
+132,Greywolf LLC,Basic,Gaming,MEA,2023-05-10
+133,Cobalt LLC,Basic,Gaming,MEA,2024-07-05
+134,Vertex Inc,Basic,Media,Europe,2023-07-02
+135,Cascade Technologies,Free,Logistics,APAC,2022-12-04
+136,Sable Co,Pro,EdTech,LATAM,2023-09-07
+137,Ridgeline Solutions,Free,Retail,APAC,2023-12-09
+138,HARBORLIGHT CO,Free,Fintech,North America,2023-05-21
+139,Fieldstone Inc,Basic,Logistics,Europe,2025-07-23
+140,Sable Co,Free,EdTech,North America,2023-04-18
+141,Nimbus Co,Enterprise,Manufacturing,LATAM,2024-03-28
+142,Quanta Solutions,Enterprise,Retail,Europe,2023-08-05
+143,Fernbridge Co,Enterprise,Retail,North America,2023-04-10
+144,Kestrel Solutions,Basic,Logistics,Europe,2023-08-31
+145,lumen technologies,Free,Retail,Europe,2023-08-20
+146,  Fernbridge Technologies  ,Enterprise,Travel,North America,2023-09-22
+147,Vertex Inc,Basic,Media,North America,2025-04-03
+148,Wildcard Group,Enterprise,SaaS,Europe,2024-04-05
+149,Vertex Inc,Enterprise,Logistics,Europe,2023-12-27
+150,Foxglove Solutions,Pro,Logistics,APAC,2023-12-11
+74,Anchorpoint Group,Free,,LATAM,2023-08-11
+19,Anchorpoint Group,Pro,,Europe,2025-05-31
